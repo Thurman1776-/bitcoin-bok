@@ -6,3 +6,7 @@
 
 ## Videos
 #### RhettReisman [link](https://www.youtube.com/c/RhettReisman/videos)
+#### How does bitcoin work (link)[https://www.youtube.com/watch?v=bBC-nXj3Ng4]
+
+
+## Online resources
