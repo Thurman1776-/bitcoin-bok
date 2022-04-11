@@ -3,6 +3,8 @@
 ## Links
 #### Bitcoin whitepaper by Satoshi Nakamoto - [link](https://shiftcrypto.ch/bitcoin.pdf)
 
+#### 21 reasons why Bitcoin will save the world - [link](https://telegra.ph/21-Reasons-Why-Bitcoin-Will-Save-The-World-09-28)
+
 
 ## Videos
 #### RhettReisman [link](https://www.youtube.com/c/RhettReisman/videos)
