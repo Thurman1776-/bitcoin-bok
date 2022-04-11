@@ -11,3 +11,7 @@
 
 ## Online resources
 #### A letter to all of you [link](https://dergigi.medium.com/dear-family-dear-friends-6ef7ee7a1a2b)
+
+
+## Umbrel
+#### Getting started [link](https://umbrelinfo.gitlab.io/getting-started.html)
