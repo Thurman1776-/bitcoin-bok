@@ -7,6 +7,8 @@
 
 #### What gave Bitcoin its value? [link](https://fee.org/articles/what-gave-bitcoin-its-value/)
 
+#### Bitcoin Commandments [link](https://telegra.ph/itcoin-Commandments-09-16)
+
 ## Videos
 #### RhettReisman [link](https://www.youtube.com/c/RhettReisman/videos)
 #### How does bitcoin work [link](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
