@@ -5,6 +5,7 @@
 
 #### 21 reasons why Bitcoin will save the world - [link](https://telegra.ph/21-Reasons-Why-Bitcoin-Will-Save-The-World-09-28)
 
+#### What gave Bitcoin its value? [link](https://fee.org/articles/what-gave-bitcoin-its-value/)
 
 ## Videos
 #### RhettReisman [link](https://www.youtube.com/c/RhettReisman/videos)
