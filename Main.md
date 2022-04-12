@@ -14,6 +14,7 @@
 
 ## Online resources
 #### A letter to all of you [link](https://dergigi.medium.com/dear-family-dear-friends-6ef7ee7a1a2b)
+#### Crash course [link](https://shiftcrypto.ch/bitcoin/resources/?u=199015831632313245190179)
 
 
 ## Umbrel
