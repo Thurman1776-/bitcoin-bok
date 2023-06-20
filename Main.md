@@ -19,5 +19,5 @@
 #### Crash course [link](https://shiftcrypto.ch/bitcoin/resources/?u=199015831632313245190179)
 
 
-## Umbrel
-#### Getting started [link](https://umbrelinfo.gitlab.io/getting-started.html)
+## Nodes
+https://bitbox.swiss/blog/we-need-bitcoin-full-nodes-economic-ones/
